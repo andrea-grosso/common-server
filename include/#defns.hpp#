@@ -1,0 +1,12 @@
+
+#ifndef __DEFNS_HPP__
+
+#define __DEFNS_HPP__
+
+struct Job {
+  int ptime;
+  int stime;
+};
+
+#endif
+
